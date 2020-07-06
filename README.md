@@ -1,0 +1,13 @@
+# user 9 PPKS29.68-16-33-17 c4e01 release-keys
+- manufacturer: motorola
+- platform: msm8953
+- codename: deen_sprout
+- flavor: user
+- release: 9
+- id: PPKS29.68-16-33-17
+- incremental: c4e01
+- tags: release-keys
+- fingerprint: 
+- brand: motorola
+- branch: user-9-PPKS29.68-16-33-17-c4e01-release-keys
+- repo: motorola_deen_sprout_dump

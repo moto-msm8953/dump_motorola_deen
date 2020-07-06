@@ -1,0 +1,6 @@
+{
+    "Image_Build_IDs": {
+        "modem": "MPSS.TA.3.0.c1-00003-8953_GEN_PACK-1",
+    },
+    "Version": "1.0"
+}
